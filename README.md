@@ -1,6 +1,6 @@
 # Representing Object Association with Vector Similarity
 
-This is an experimental investigation into a machine learning technique
+This is an [experimental investigation](notebooks/vecassoc.ipynb) into a machine learning technique
 for modelling associations between objects by mapping each object to
 a vector in some space. These vectors are, to begin with, seeded with
 random values. But by refining the vector values, the similarity of
